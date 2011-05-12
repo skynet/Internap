@@ -1,16 +1,13 @@
 <?php
-/**
- * @package Internap CDN
- */
 /*
- Plugin Name: Internap CDN
- Plugin URI: http://cdn.usphp.com/
- Description: Internap provides The Ultimate Online Experience through Internet Connectivity, Colocation, Managed Hosting and Content Delivery Network services.
- Version: 1.0
- Author: wpdeveloper
- Author URI: http://profiles.wordpress.org/users/wpdeveloper/
- License: GPLv2 or later
- */
+Plugin Name: Internap CDN
+Plugin URI: https://github.com/skynet/Internap
+Description: Internap provides The Ultimate Online Experience through Internet Connectivity, Colocation, Managed Hosting and Content Delivery Network services.
+Author: Ionel Roiban
+Author URI: http://www.usphp.com/
+Version: 1.0
+Network: true
+*/
 
 /*
  This program is free software; you can redistribute it and/or
