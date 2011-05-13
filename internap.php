@@ -5,7 +5,7 @@ Plugin URI: https://github.com/skynet/Internap
 Description: Internap provides The Ultimate Online Experience through Internet Connectivity, Colocation, Managed Hosting and Content Delivery Network services.
 Author: Ionel Roiban
 Author URI: http://www.usphp.com/
-Version: 1.0
+Version: 1.0.1
 Network: true
 */
 

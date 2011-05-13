@@ -3,7 +3,7 @@ Contributors: wpdeveloper
 Tags: internap, cdn
 Requires at least: 3.0
 Tested up to: 3.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 Donate link: 
 License: GPLv2 or later
 
